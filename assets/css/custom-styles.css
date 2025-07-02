@@ -148,7 +148,7 @@ h1 {
     font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
     font-weight: bold;
     font-size: 2.5em;
-    margin-top: 1em;
+    margin-top: 0.5em;
     margin-bottom: 0.7em;
 }
 
@@ -190,4 +190,27 @@ hr {
 strong, b {
     font-weight: 600; /* or 600 for a bit bolder, or 550 for in-between */
     /* color: #333;      Optional: soften the color if you want */
+}
+
+
+/* Contact Icons Styling */
+
+.contact-icons a {
+    color: #444;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: color 0.2s;
+}
+
+.contact-icons a:hover {
+    color: #ef8e38;
+}
+
+.contact-icons i {
+    margin-right: 0.5em;
+    vertical-align: middle;
+}
+
+.contact-icons p {
+    margin: 0.5em 0;
 }
