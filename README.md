@@ -1,9 +1,9 @@
 ﻿# Who am I?
 
-<table>
+<table style="border: none;">
   <tr>
-    <td style="vertical-align:top; padding-right: 16px;">
-      <img src="Assets/ProfilePic.jpg" alt="Profile Image" width="120" style="border-radius:8px;">
+    <td style="vertical-align:top; padding-right: 16px; width: 20%">
+      <img src="Assets/ProfilePic.jpg" alt="Profile Image" style="border-radius:8px;">
     </td>
     <td>
 
