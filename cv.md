@@ -95,7 +95,7 @@ I bring a multidisciplinary mindset, practical design sense, and a track record 
 
 I’m passionate about good design, clean interfaces (both human and mechanical), and how things are made. I thrive on learning new tools and solving problems at the intersection of creativity and precision. Whether it's a consumer product or a mechanical system, I care about how things look, feel, and function.
 
-If you're interested in colaborating on a project, discussing design, or just want to chat about engineering, feel free to [contact me](contact.md)! I’m always up for a good conversation about how to make things better, faster, and more fun to build!
+If you're interested in colaborating on a project, discussing design, or just want to chat about engineering, feel free to <a href="contact.html" style="text-decoration: underline;">contact me</a>! I’m always up for a good conversation about how to make things better, faster, and more fun to build!
 
 ---
 
