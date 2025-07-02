@@ -20,8 +20,7 @@ Or, by all means, <a href="contact.html">reach out</a> if you have an idea worth
   </tr>
 </table>
 
-## Navigation
-
-- [CV](#cv)
-- [Design Portfolio](#portfolio)
-- [Contact](contact.md)
+<div class="button-row">
+  <a href="#cv" class="modern-button">View CV</a>
+  <a href="#portfolio" class="modern-button">Design Portfolio</a>
+</div>
