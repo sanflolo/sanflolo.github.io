@@ -26,3 +26,12 @@ titles_from_headings:
   enabled: false
   strip_title: true
   collections: true
+
+footer_text: "© 2025 Santiago Flores. All rights reserved."
+footer_links:
+  - title: "CV"
+    url: "#cv"
+  - title: "Design Portfolio"
+    url: "#portfolio"
+  - title: "Contact"
+    url: "contact.md"
