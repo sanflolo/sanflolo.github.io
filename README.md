@@ -13,5 +13,3 @@ A brief description of the project, its purpose, and main features.
 
 ## Navigation
 Instructions on how to install and set up the project.
-
-
