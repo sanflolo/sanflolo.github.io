@@ -101,7 +101,7 @@ body {
 /* Header Styling */
 
 .custom-header {
-    background: linear-gradient(90deg, #ef8e38 0%, #ffb347 100%);
+    background: #f8f8f8; /* Same as footer */
     padding: 2em 0 1.5em 0;
     text-align: center;
     box-shadow: 0 2px 8px rgba(239,142,56,0.08);
@@ -114,7 +114,7 @@ body {
 }
 
 .site-title-link {
-    color: #fff;
+    color: #ef8e38;
     font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
     font-size: 2.2em;
     font-weight: bold;
@@ -127,4 +127,18 @@ body {
 .site-title-link:focus {
     color: #222;
     text-decoration: underline;
+}
+
+
+/* First level header styling */
+h1 {
+    color: #ef8e38;
+    font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+
+/* Second level header styling */
+h2 {
+    color: #ef8e38;
 }
