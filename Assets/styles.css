@@ -141,4 +141,12 @@ h1 {
 /* Second level header styling */
 h2 {
     color: #ef8e38;
+    margin-top: 2.5em;
+}
+
+hr {
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    border: none;
+    border-top: 1.5px solid #e0e0e0;
 }
