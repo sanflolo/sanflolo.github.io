@@ -104,7 +104,7 @@ body {
     background: #f8f8f8; /* Same as footer */
     padding: 2em 0 1.5em 0;
     text-align: center;
-    box-shadow: 0 2px 8px rgba(239,142,56,0.08);
+    box-shadow: none /* box-shadow removed, previous settings: 0 2px 8px rgba(239,142,56,0.08) */;
 }
 
 .header-wrapper {

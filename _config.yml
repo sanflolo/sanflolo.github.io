@@ -30,7 +30,7 @@ titles_from_headings:
 footer_text: "© 2025 Santiago Flores. All rights reserved."
 footer_links:
   - title: "CV"
-    url: "#cv"
+    url: "cv.md"
   - title: "Design Portfolio"
     url: "#portfolio"
   - title: "Contact"

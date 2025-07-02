@@ -19,6 +19,6 @@ Or, by all means, <a href="contact.html">reach out</a> if you have an idea worth
 </table>
 
 <div class="button-row">
-  <a href="#cv" class="modern-button">View CV</a>
+  <a href="cv.html" class="modern-button">View CV</a>
   <a href="#portfolio" class="modern-button">Design Portfolio</a>
 </div>
