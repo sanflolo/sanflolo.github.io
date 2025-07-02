@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="vertical-align:top; padding-right: 16px; width: 38%">
-      <img src="Assets/ProfilePic.jpg" alt="Profile Image" style="border-radius:8px;">
+      <img src="assets/images/ProfilePic.jpg" alt="Profile Image" style="border-radius:8px;">
     </td>
     <td>
 

@@ -102,8 +102,8 @@ If you're interested in colaborating on a project, discussing design, or just wa
 ---
 
 <div class="button-row">
-  <a href="/Assets/SFL_General_MechanicalEngineer.pdf" class="modern-button" download>Download CV (PDF)</a>
-  <a href="/Assets/SFL_General_CoverLetter.pdf" class="modern-button" download>Download Cover Letter (PDF)</a>
+  <a href="/assets/cv/SFL_General_MechanicalEngineer.pdf" class="modern-button" download>Download CV (PDF)</a>
+  <a href="/assets/cv/SFL_General_CoverLetter.pdf" class="modern-button" download>Download Cover Letter (PDF)</a>
 </div>
 
 ---
