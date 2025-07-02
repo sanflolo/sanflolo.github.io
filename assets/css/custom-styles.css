@@ -179,7 +179,7 @@ hr {
 
 /* Spacing for CV first section */
 .cv-meta {
-    margin-top: 0;
+    margin-top: -1.2em;
     margin-bottom: -1.2em;
     display: block;
     text-align: center;
@@ -189,5 +189,5 @@ hr {
 
 strong, b {
     font-weight: 550; /* or 600 for a bit bolder, or 550 for in-between */
-    color: #333;      /* Optional: soften the color if you want */
+    /* color: #333;      Optional: soften the color if you want */
 }
