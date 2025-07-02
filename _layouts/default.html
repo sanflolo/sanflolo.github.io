@@ -1,26 +1,21 @@
 ﻿<!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | escape }}</title>
-    <link rel="stylesheet" href="{{ '/Assets/styles.css' | relative_url }}">
+<head>
     {%- include head.html -%}
-  </head>
-  <body>
-      <header class="site-header" role="banner">
-          {%- include header.html -%}
-      </header>
+</head>
+<body>
+    <header class="site-header" role="banner">
+        {%- include header.html -%}
+    </header>
 
-      <main class="page-content" aria-label="Content">
-          <div class="wrapper">
-              {{ content }}
-          </div>
-      </main>
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
 
-      <footer class="site-footer" role="contentinfo">
-          {% include footer.html %}
-      </footer>
-  </body>
+    <footer class="site-footer" role="contentinfo">
+        {% include footer.html %}
+    </footer>
+</body>
 </html>
