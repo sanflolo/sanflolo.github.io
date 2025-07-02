@@ -14,7 +14,7 @@ I'm a mechanical design engineer who believes good design should be as smart as 
 From safety-critical automotive systems to production workflows, I design with both precision and purpose. I specialize in CAD, prototyping, and getting things to actually work, whether that's on a racetrack, in a factory, or on a 3D printer at 2 a.m.
 
 This is where I keep my CV and design portfolio. Take a look around!
-Or, by all means, <a href="contact.md">reach out</a> if you have an idea worth building!
+Or, by all means, <a href="contact.html">reach out</a> if you have an idea worth building!
 
     </td>
   </tr>
