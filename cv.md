@@ -2,7 +2,7 @@
 
 ---
 
-<p class="cv-meta">Mexico City based | <a href="contact.md">Contact</a> | <a href="#portfolio">Portfolio</a></p>
+<p class="cv-meta">Mexico City based | <a href="contact.html">Contact</a> | <a href="#portfolio">Portfolio</a></p>
 
 ---
 
