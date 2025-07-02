@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align:top; padding-right: 16px; width: 35%">
+    <td style="vertical-align:top; padding-right: 16px; width: 38%">
       <img src="Assets/ProfilePic.jpg" alt="Profile Image" style="border-radius:8px;">
     </td>
     <td>
@@ -22,9 +22,6 @@ Or, by all means, <a href="contact.html">reach out</a> if you have an idea worth
 
 ## Navigation
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [CV](#cv)
+- [Design Portfolio](#portfolio)
 - [Contact](contact.md)
