@@ -28,7 +28,7 @@
 .custom-footer strong {
     display: block;
     font-size: 1.1em;
-    color: #444;
+    color: #ef8e38 !important;
     margin-bottom: 0.5em;
 }
 
@@ -80,7 +80,7 @@ body {
     display: inline-block;
     padding: 0.75em 2em;
     background: linear-gradient(90deg, #ef8e38 0%, #ffb347 100%);
-    color: #fff;
+    color: #fff !important;
     border: none;
     border-radius: 2em;
     font-size: 1.1em;
@@ -92,7 +92,7 @@ body {
 
 .modern-button:hover, .modern-button:focus {
     background: linear-gradient(90deg, #ffb347 0%, #ef8e38 100%);
-    color: #fff;
+    color: #fff !important;
     transform: translateY(-2px) scale(1.04);
     box-shadow: 0 4px 16px rgba(239,142,56,0.15);
 }
@@ -114,7 +114,7 @@ body {
 }
 
 .site-title-link {
-    color: #ef8e38;
+    color: #ef8e38 !important;
     font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
     font-size: 2.2em;
     font-weight: bold;
