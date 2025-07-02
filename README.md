@@ -1,8 +1,10 @@
 ﻿# Who am I?
 
-<table style="border: none;">
+<link rel="stylesheet" href="Assets/styles.css">
+
+<table>
   <tr>
-    <td style="vertical-align:top; padding-right: 16px; width: 20%">
+    <td style="vertical-align:top; padding-right: 16px; width: 35%">
       <img src="Assets/ProfilePic.jpg" alt="Profile Image" style="border-radius:8px;">
     </td>
     <td>
