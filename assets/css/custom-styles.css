@@ -1,4 +1,6 @@
-﻿table, tr, td {
+﻿/* Table styling */
+
+table, tr, td {
     border: none !important;
     border-collapse: collapse;
     background: none;
@@ -132,7 +134,7 @@ body {
 .site-header {
     border-top: none !important;
     border-bottom: none !important;
-    background: none !important;
+    /* background: none !important; */
     box-shadow: none !important;
     margin-top: 0 !important;
     padding-top: 0 !important;
