@@ -90,9 +90,9 @@ body {
     transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
 }
 
-    .modern-button:hover, .modern-button:focus {
-        background: linear-gradient(90deg, #5f9ea0 0%, #3366cc 100%);
-        color: #fff;
-        transform: translateY(-2px) scale(1.04);
-        box-shadow: 0 4px 16px rgba(51,102,204,0.15);
-    }
+.modern-button:hover, .modern-button:focus {
+    background: linear-gradient(90deg, #5f9ea0 0%, #3366cc 100%);
+    color: #fff;
+    transform: translateY(-2px) scale(1.04);
+    box-shadow: 0 4px 16px rgba(51,102,204,0.15);
+}

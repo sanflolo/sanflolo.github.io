@@ -1,7 +1,5 @@
 ﻿# Who am I?
 
-<link rel="stylesheet" href="Assets/styles.css">
-
 <table>
   <tr>
     <td style="vertical-align:top; padding-right: 16px; width: 38%">
