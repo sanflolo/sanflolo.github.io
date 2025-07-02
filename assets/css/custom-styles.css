@@ -138,7 +138,7 @@ body {
     /* background: none !important; */
     box-shadow: none !important;
     margin-top: 0 !important;
-    padding-top: 0 !important;
+    padding-top: 2em !important;
 }
 
 
@@ -173,4 +173,15 @@ hr {
     margin-bottom: 2.5em;
     border: none;
     border-top: 1.5px solid #e0e0e0;
+}
+
+
+/* Spacing for CV first section */
+.cv-meta {
+    margin-top: -1.2em;
+    margin-bottom: -1.2em;
+    display: block;
+    text-align: center;
+    font-size: 1.1em;
+    color: #444;
 }
