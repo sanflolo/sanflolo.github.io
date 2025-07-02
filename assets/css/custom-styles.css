@@ -2,7 +2,7 @@
 
 .custom-header {
     background: #f8f8f8; /* Same as footer */
-    padding: 1.2em 0 1.2em 0 !important; /* Increase top padding here */
+    padding: 1em 0 1em 0 !important; /* Increase top padding here */
     font-size: 1.5em;
     text-align: center;
     box-shadow: none;
