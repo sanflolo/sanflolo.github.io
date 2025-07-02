@@ -129,19 +129,40 @@ body {
     text-decoration: underline;
 }
 
+.site-header {
+    border-top: none !important;
+    border-bottom: none !important;
+    background: none !important;
+    box-shadow: none !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
 
 /* First level header styling */
 h1 {
     color: #ef8e38;
     font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
     font-weight: bold;
+    font-size: 2.2em;
+    margin-top: 1.5em;
+    margin-bottom: 0.7em;
 }
 
 
 /* Second level header styling */
 h2 {
     color: #ef8e38;
+    font-size: 1.5em;
     margin-top: 2.5em;
+    margin-bottom: 0.7em;
+}
+
+html, body {
+    background: #fff !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 hr {
