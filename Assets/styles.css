@@ -5,10 +5,17 @@
     box-shadow: none;
 }
 
+.site-footer {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    border-top: none !important;
+    background: none !important;
+}
+
 .custom-footer {
     text-align: center;
     color: #888;
-    margin-top: 2em;
+    margin-top: 0; /* Remove extra space above */
     padding: 1.5em 0 0.5em 0;
     background: #f8f8f8;
     border-top: 1px solid #e0e0e0;
@@ -49,4 +56,8 @@
     font-size: 0.9em;
     color: #aaa;
     margin-top: 1em;
+}
+
+body {
+    margin-bottom: 0 !important;
 }
