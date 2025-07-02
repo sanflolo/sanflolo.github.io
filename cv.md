@@ -2,8 +2,6 @@
 
 ---
 
-## General information
-
 Mexico City based | [Contact](contact.md) | [Portfolio](#portfolio)
 
 ---
