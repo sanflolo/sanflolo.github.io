@@ -137,8 +137,8 @@ body {
     border-bottom: none !important;
     /* background: none !important; */
     box-shadow: none !important;
-    margin-top: 0 !important;
-    padding-top: 0 !important;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 
