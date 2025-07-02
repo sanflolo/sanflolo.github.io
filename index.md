@@ -23,8 +23,6 @@ Or, by all means, <a href="contact.html">reach out</a> if you have an idea worth
   <a href="#portfolio" class="modern-button">Design Portfolio</a>
 </div>
 
-<br>
-
 <div class="button-row">
   <a href="/assets/cv/SFL_General_MechanicalEngineer.pdf" class="modern-button" download>Download CV (PDF)</a>
   <a href="/assets/cv/SFL_General_CoverLetter.pdf" class="modern-button" download>Download Cover Letter (PDF)</a>
