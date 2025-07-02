@@ -104,10 +104,10 @@ body {
 
 .custom-header {
     background: #f8f8f8; /* Same as footer */
-    padding: 2em 0 1.5em 0;
+    padding: 3.5em 0 1.5em 0; /* Increase top padding here */
     font-size: 1.5em;
     text-align: center;
-    box-shadow: none /* box-shadow removed, previous settings: 0 2px 8px rgba(239,142,56,0.08) */;
+    box-shadow: none;
 }
 
 .header-wrapper {
@@ -157,6 +157,7 @@ h1 {
 h2 {
     color: #ef8e38;
     font-size: 1.5em;
+    font-weight: bold;
     margin-top: 1.2em;
     margin-bottom: 0.7em;
 }
@@ -184,4 +185,9 @@ hr {
     text-align: center;
     font-size: 1.1em;
     color: #444;
+}
+
+strong, b {
+    font-weight: 550; /* or 600 for a bit bolder, or 550 for in-between */
+    color: #333;      /* Optional: soften the color if you want */
 }
