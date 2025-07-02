@@ -1,10 +1,77 @@
-﻿/* Table styling */
+﻿/* Main Header Styling */
 
-table, tr, td {
-    border: none !important;
-    border-collapse: collapse;
-    background: none;
+.custom-header {
+    background: #f8f8f8; /* Same as footer */
+    padding: 1.2em 0 1.2em 0 !important; /* Increase top padding here */
+    font-size: 1.5em;
+    text-align: center;
     box-shadow: none;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-title-link {
+    color: #ef8e38 !important;
+    font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
+    font-size: 2.2em;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+    transition: color 0.2s;
+}
+
+    .site-title-link:hover,
+    .site-title-link:focus {
+        color: #222;
+        text-decoration: underline;
+    }
+
+.site-header {
+    border-top: none !important;
+    border-bottom: none !important;
+    /* background: none !important; */
+    box-shadow: none !important;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+
+/* First level header styling */
+h1 {
+    color: #ef8e38;
+    font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.7em;
+}
+
+
+/* Second level header styling */
+h2 {
+    color: #ef8e38;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 1.2em;
+    margin-bottom: 0.7em;
+}
+
+html, body {
+    background: #fff !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+hr {
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+    border: none;
+    border-top: 1.5px solid #e0e0e0;
 }
 
 
@@ -69,6 +136,15 @@ body {
 }
 
 
+/* Table styling */
+
+table, tr, td {
+    border: none !important;
+    border-collapse: collapse;
+    background: none;
+    box-shadow: none;
+}
+
 /* Button Styling */
 
 .button-row {
@@ -100,84 +176,8 @@ body {
 }
 
 
-/* Main Header Styling */
-
-.custom-header {
-    background: #f8f8f8; /* Same as footer */
-    padding: 1.5em 0 1.5em 0 !important; /* Increase top padding here */
-    font-size: 1.5em;
-    text-align: center;
-    box-shadow: none;
-}
-
-.header-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.site-title-link {
-    color: #ef8e38 !important;
-    font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
-    font-size: 2.2em;
-    font-weight: bold;
-    text-decoration: none;
-    letter-spacing: 1px;
-    transition: color 0.2s;
-}
-
-.site-title-link:hover,
-.site-title-link:focus {
-    color: #222;
-    text-decoration: underline;
-}
-
-.site-header {
-    border-top: none !important;
-    border-bottom: none !important;
-    /* background: none !important; */
-    box-shadow: none !important;
-    margin-top: 0;
-    padding-top: 0;
-}
-
-
-/* First level header styling */
-h1 {
-    color: #ef8e38;
-    font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
-    font-weight: bold;
-    font-size: 2.5em;
-    margin-top: 0.5em;
-    margin-bottom: 0.7em;
-}
-
-
-/* Second level header styling */
-h2 {
-    color: #ef8e38;
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-top: 1.2em;
-    margin-bottom: 0.7em;
-}
-
-html, body {
-    background: #fff !important;
-    border: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
-hr {
-    margin-top: 2.5em;
-    margin-bottom: 2.5em;
-    border: none;
-    border-top: 1.5px solid #e0e0e0;
-}
-
-
 /* Spacing for CV first section */
+
 .cv-meta {
     margin-top: -1.2em;
     margin-bottom: -1.2em;
