@@ -1,6 +1,11 @@
 ﻿# Who am I?
 
-![Profile Image](Assets/ProfilePic.jpg)
+<table>
+  <tr>
+    <td style="vertical-align:top; padding-right: 16px;">
+      <img src="Assets/ProfilePic.jpg" alt="Profile Image" width="120" style="border-radius:8px;">
+    </td>
+    <td>
 
 I'm a mechanical design engineer who believes good design should be as smart as it is functional, and ideally, fun to build. With a background in structural analysis, product development, and international collaboration, I turn complex problems into manufacturable solutions.
 
@@ -8,6 +13,10 @@ From safety-critical automotive systems to production workflows, I design with b
 
 This is where I keep my CV and design portfolio. Take a look around!
 Or, by all means, [reach out](contact.md) if you have an idea worth building!
+
+    </td>
+  </tr>
+</table>
 
 ## Navigation
 
