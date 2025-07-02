@@ -188,6 +188,6 @@ hr {
 }
 
 strong, b {
-    font-weight: 550; /* or 600 for a bit bolder, or 550 for in-between */
+    font-weight: 600; /* or 600 for a bit bolder, or 550 for in-between */
     /* color: #333;      Optional: soften the color if you want */
 }
